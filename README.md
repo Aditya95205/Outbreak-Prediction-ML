@@ -12,8 +12,7 @@ The goal of this application is to demonstrate how machine learning models can a
 - **Pandas**, **NumPy**, **Scikit-learn**
 - **Jupyter Notebook**
 - **HTML/CSS/JavaScript** (for frontend)
-- **Flask** (if using Python backend, optional)
-- **Streamlit** (for basic deployment, optional)
+- **Streamlit** (for basic deployment)
 
 ---
 
